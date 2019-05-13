@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+roman
+db.sqlite3
+/static
+.DS_Store
+# .gitignore
+requirements.txt
